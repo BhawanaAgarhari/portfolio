@@ -1,3 +1,4 @@
+/*  import google fonts */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
 
 * {
@@ -168,7 +169,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("https://img.freepik.com/free-photo/modern-futuristic-sci-fi-background_35913-2150.jpg?t=st=1651315266~exp=1651315866~hmac=9a124df0ea833a2a9c62045ce0f945ff31d78d72e226e9692a727b2f7f2c1c3c&w=900")
+  background: url("https://images.pexels.com/photos/7407367/pexels-photo-7407367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
     no-repeat center;
   height: 100vh;
   color: #fff;
